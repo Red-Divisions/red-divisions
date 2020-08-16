@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /cms
-Disallow: /watch
-Disallow: /series
-
-Sitemap: https://www.wonderfulsubs.com/sitemap.xml
